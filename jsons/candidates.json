@@ -1,0 +1,304 @@
+{
+  "candidatos": [
+    {
+      "nome": "Lula",
+      "cargo": "Presidente da República",
+      "categorias": [
+        {
+          "nome": "1. Economia, Trabalho e Responsabilidade Fiscal",
+          "temas": [
+            { "nome": "Arcabouço fiscal e responsabilidade fiscal" },
+            { "nome": "Desenrola Brasil e renegociação de dívidas" },
+            { "nome": "Economia popular e solidária (Lei Paul Singer)" },
+            { "nome": "Fim da escala 6x1 e redução da jornada (40h)" },
+            { "nome": "Infraestrutura e logística (Novo PAC)" },
+            { "nome": "Micro, pequenas e médias empresas (fomento e crédito)" },
+            { "nome": "Nova Indústria Brasil (NIB) e neoindustrialização" },
+            { "nome": "Plano de Transformação Ecológica (PTE)" },
+            { "nome": "Reforma tributária" },
+            { "nome": "Trabalho por aplicativos e economia digital" },
+            { "nome": "Valorização do salário-mínimo" }
+          ]
+        },
+        {
+          "nome": "2. Saúde Pública e Assistência",
+          "temas": [
+            { "nome": "Atenção especializada e redução de filas (Agora tem Especialistas)" },
+            { "nome": "Complexo Econômico e Industrial da Saúde (CEIS)" },
+            { "nome": "Cuidados e corresponsabilização (Política Nacional de Cuidados)" },
+            { "nome": "Farmácia Popular e distribuição de medicamentos" },
+            { "nome": "Mais Médicos e fixação de profissionais" },
+            { "nome": "Saúde da mulher e dignidade menstrual" },
+            { "nome": "Saúde mental (CAPS)" },
+            { "nome": "Saúde bucal (Brasil Sorridente)" },
+            { "nome": "Sistema Único de Assistência Social (SUAS)" },
+            { "nome": "Vacinação (recuperação das coberturas vacinais)" }
+          ]
+        },
+        {
+          "nome": "3. Segurança Pública e Justiça",
+          "temas": [
+            { "nome": "Asfixia financeira do crime organizado" },
+            { "nome": "Controle de armas de fogo" },
+            { "nome": "Crimes financeiros, cibernéticos e Celular Seguro" },
+            { "nome": "Enfrentamento da violência contra a mulher" },
+            { "nome": "Fronteiras e segurança na Amazônia" },
+            { "nome": "Ministério da Segurança Pública" },
+            { "nome": "Sistema prisional e penitenciário (Plano Pena Justa)" },
+            { "nome": "Sistema Único de Segurança Pública (SUSP) e inteligência" }
+          ]
+        },
+        {
+          "nome": "4. Educação, Ciência e Meio Ambiente",
+          "temas": [
+            { "nome": "Alfabetização (Compromisso Nacional Criança Alfabetizada)" },
+            { "nome": "Ciência, Tecnologia e Inovação" },
+            { "nome": "Creches e educação infantil" },
+            { "nome": "Ensino médio (Pé-de-Meia)" },
+            { "nome": "Ensino técnico e Institutos Federais" },
+            { "nome": "Ensino superior (expansão, ProUni, FIES, hospitais universitários)" },
+            { "nome": "Escola em tempo integral" },
+            { "nome": "Professores (valorização e formação)" }
+          ]
+        },
+        {
+          "nome": "5. Política Externa e Inserção Global",
+          "temas": [
+            { "nome": "Aliança Global contra a Fome e a Pobreza" },
+            { "nome": "COP30, Fundo Florestas Tropicais e diplomacia climática" },
+            { "nome": "Defesa Nacional e Base Industrial de Defesa" },
+            { "nome": "Integração sul-americana (Mercosul, OTCA, UNASUL)" },
+            { "nome": "Multilateralismo (ONU, OMC, FMI) e BRICS" },
+            { "nome": "Relações com África, Ásia, Oriente Médio e Sul Global" }
+          ]
+        },
+        {
+          "nome": "6. Direitos Humanos, Equidade e Inclusão Social",
+          "temas": [
+            { "nome": "Combate ao racismo e cotas raciais" },
+            { "nome": "Cultura (Fomento, Lei Rouanet, Aldir Blanc, Cultura Viva)" },
+            { "nome": "Esporte (Bolsa Atleta, Arenas Brasil)" },
+            { "nome": "Mulheres (autonomia, combate ao machismo e igualdade salarial)" },
+            { "nome": "Pessoas com deficiência (Viver sem Limites, educação inclusiva)" },
+            { "nome": "Pessoas idosas (Atenção domiciliar, envelhecimento ativo)" },
+            { "nome": "População LGBTQIAP+" },
+            { "nome": "Povos indígenas e quilombolas (direitos e demarcação)" }
+          ]
+        },
+        {
+          "nome": "7. Questão Agrária, Propriedade e Direito à Cidade",
+          "temas": [
+            { "nome": "Agricultura familiar (Plano Safra, Pronaf)" },
+            { "nome": "Agronegócio (financiamento e sustentabilidade)" },
+            { "nome": "Biocombustíveis (Combustível do Futuro)" },
+            { "nome": "Desmatamento líquido zero e combate a incêndios" },
+            { "nome": "Fundo Amazônia e Fundo Clima" },
+            { "nome": "Mercado de carbono e Sistema Brasileiro de Comércio de Emissões" },
+            { "nome": "Reforma agrária e regularização fundiária" },
+            { "nome": "Transição energética e energias renováveis (eólica, solar, hidrogênio)" }
+          ]
+        },
+        {
+          "nome": "8. Governança, Transparência e Reformas de Estado",
+          "temas": [
+            { "nome": "Compras públicas (poder de compra do Estado)" },
+            { "nome": "Controle, integridade e combate à corrupção" },
+            { "nome": "Emendas parlamentares (transparência e debate)" },
+            { "nome": "Estado digital, infraestrutura de dados e serviços integrados" },
+            { "nome": "Participação social (Conferências, Conselhos, PPA)" },
+            { "nome": "Portal da Transparência" },
+            { "nome": "Regulação de redes sociais e plataformas digitais" }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Flavio Bolsonaro",
+      "cargo": "Presidente da República",
+      "categorias": [
+        {
+          "nome": "1. Economia, Trabalho e Responsabilidade Fiscal",
+          "temas": [
+            { "nome": "Abertura de empresa" },
+            { "nome": "Banco nacional de vagas de emprego" },
+            { "nome": "CAIXA - banco da prosperidade" },
+            { "nome": "Crédito para empreender" },
+            { "nome": "Dívida Pública" },
+            { "nome": "Equilíbrio fiscal" },
+            { "nome": "Inflação no centro da meta" },
+            { "nome": "Minerais críticos" },
+            { "nome": "Negociado sobre o legislado" },
+            { "nome": "Primeira empresa" },
+            { "nome": "Primeiro emprego" },
+            { "nome": "Redução de impostos" },
+            { "nome": "Redução do custo do trabalho" },
+            { "nome": "Reforma Tributária" },
+            { "nome": "Reformulação das regras fiscais" },
+            { "nome": "Resistir à República Sindical" },
+            { "nome": "Trabalhador acima de 50 anos" }
+          ]
+        },
+        {
+          "nome": "2. Saúde Pública e Assistência",
+          "temas": [
+            { "nome": "Agendamento ágil por inteligência artificial" },
+            { "nome": "Apostas com recurso de programas sociais" },
+            { "nome": "Apostas conscientização" },
+            { "nome": "Casa Verde e Amarela" },
+            { "nome": "Digitalização do SUS" },
+            { "nome": "Exames preventivos" },
+            { "nome": "Horários ociosos da rede privada" },
+            { "nome": "Hospitais universitários federais - modernização" },
+            { "nome": "Idosos - Casa segura para envelhecer" },
+            { "nome": "Idosos - Instituições de longa permanência" },
+            { "nome": "Imunização" },
+            { "nome": "INSS sem fila" },
+            { "nome": "Pacote antifraude" },
+            { "nome": "Prevenção" },
+            { "nome": "Programa de atendimento aos idosos" },
+            { "nome": "Programas sociais - manutenção" },
+            { "nome": "Prontuário eletrônico único" },
+            { "nome": "Rede Nacional de Cuidado" },
+            { "nome": "Remédio à domicílio" },
+            { "nome": "Retorno sem fila pós seguro desemprego" },
+            { "nome": "Saúde da família" },
+            { "nome": "Saúde mental" },
+            { "nome": "Tabela SUS - Correção" },
+            { "nome": "Telessaúde" }
+          ]
+        },
+        {
+          "nome": "3. Segurança Pública",
+          "temas": [
+            { "nome": "Auxílio às famílias das vítimas" },
+            { "nome": "Castração química para estupradores" },
+            { "nome": "Facções e crime organizado" },
+            { "nome": "Feminicídio - Canais de denúncia" },
+            { "nome": "Feminicídio - tolerância zero" },
+            { "nome": "Fronteiras" },
+            { "nome": "Investimento em segurança pública" },
+            { "nome": "Maioridade penal" },
+            { "nome": "Presídios" },
+            { "nome": "Progressão de pena zero para crimes hediondos" },
+            { "nome": "Reconhecimento facial" },
+            { "nome": "Retomar áreas sob domínio de facções" },
+            { "nome": "Roubo de celular" },
+            { "nome": "Tráfico e cocaína nos portos" }
+          ]
+        },
+        {
+          "nome": "4. Educação",
+          "temas": [
+            { "nome": "Alfabetização (método fônico)" },
+            { "nome": "Altas habilidades" },
+            { "nome": "Capacitação contínua de professores" },
+            { "nome": "Conectividade nas escolas" },
+            { "nome": "Creche - ampliação de vagas" },
+            { "nome": "Economia digital no currículo escolar" },
+            { "nome": "Ensino superior e inovação" },
+            { "nome": "Ensino técnico" },
+            { "nome": "Escola em tempo integral" },
+            { "nome": "Escola nas férias" },
+            { "nome": "Escola sem doutrinação" },
+            { "nome": "Escolas cívico-militares" },
+            { "nome": "Esporte na escola" },
+            { "nome": "Financiamento estudantil" },
+            { "nome": "Gestão escolar por resultados" },
+            { "nome": "Política Nacional de Formação de Talentos" },
+            { "nome": "Reforço escolar - Programa Acolher" },
+            { "nome": "Voucher educacional em falta de vagas" },
+            { "nome": "Voucher-creche" }
+          ]
+        },
+        {
+          "nome": "5. Política Externa e Inserção Global",
+          "temas": [
+            { "nome": "Abertura comercial" },
+            { "nome": "Adesão à OCDE" },
+            { "nome": "Cadeias globais de valor" },
+            { "nome": "Competitividade doméstica" },
+            { "nome": "Defesa nacional" },
+            { "nome": "Fortalecimento de multinacionais brasileiras" },
+            { "nome": "Soberania" },
+            { "nome": "Transição energética" }
+          ]
+        },
+        {
+          "nome": "6. Direitos Humanos, Equidade e Inclusão Social",
+          "temas": [
+            { "nome": "Bônus de internet" },
+            { "nome": "Canais de denúncia" },
+            { "nome": "Capacitação feminina" },
+            { "nome": "Central da Mulher" },
+            { "nome": "ClarIA (assistente virtual)" },
+            { "nome": "Doenças Raras" },
+            { "nome": "Escritura da casa própria" },
+            { "nome": "Espaços de acolhimento" },
+            { "nome": "Esporte feminino" },
+            { "nome": "Ganha, Ganha" },
+            { "nome": "Independência financeira" },
+            { "nome": "Orientação financeira" },
+            { "nome": "Paradesporto" },
+            { "nome": "Pessoas com deficiência" },
+            { "nome": "Saúde para Elas" },
+            { "nome": "Trabalho para elas" },
+            { "nome": "Transtorno do Espectro Autista" }
+          ]
+        },
+        {
+          "nome": "7. Questão Agrária e Meio Ambiente",
+          "temas": [
+            { "nome": "Amazônia" },
+            { "nome": "Armazenamento de safras" },
+            { "nome": "Bioeconomia" },
+            { "nome": "Cadastro ambiental rural" },
+            { "nome": "Cadastro fundiário e ambiental" },
+            { "nome": "Combustíveis sustentáveis de aviação" },
+            { "nome": "Conectividade nas áreas rurais" },
+            { "nome": "Desenvolvimento sustentável" },
+            { "nome": "Direito de propriedade" },
+            { "nome": "Fiscalização ambiental" },
+            { "nome": "Floresta preservada" },
+            { "nome": "Irrigação" },
+            { "nome": "Lixão zero" },
+            { "nome": "Mercado de carbono" },
+            { "nome": "O povo da floresta não é inimigo" },
+            { "nome": "Outorgas de irrigação" },
+            { "nome": "Pagamento por serviços ambientais" },
+            { "nome": "Rastreabilidade de cadeias produtivas" },
+            { "nome": "Redução de queimadas / desmatamento" },
+            { "nome": "Saneamento básico" },
+            { "nome": "Saneamento rural" },
+            { "nome": "Segurança alimentar" },
+            { "nome": "Seguro rural" },
+            { "nome": "Títulos rurais" },
+            { "nome": "Transparência de financiadores" }
+          ]
+        },
+        {
+          "nome": "8. Governança, Transparência e Reformas de Estado",
+          "temas": [
+            { "nome": "100% dos serviços públicos digitalizados" },
+            { "nome": "Agências reguladoras" },
+            { "nome": "Avaliação de políticas públicas" },
+            { "nome": "Combate à corrupção" },
+            { "nome": "Corte de Ministérios" },
+            { "nome": "Fim da reeleição" },
+            { "nome": "Identidade digital única" },
+            { "nome": "Judiciário - fim das decisões monocráticas" },
+            { "nome": "Processo orçamentário" },
+            { "nome": "Profissionalização da gestão pública" },
+            { "nome": "Programa Nacional de Desestatização" },
+            { "nome": "Reforma Administrativa" },
+            { "nome": "Reforma do judiciário" },
+            { "nome": "Reforma política" },
+            { "nome": "Revisão normativa infralegal" },
+            { "nome": "Revogaço regulatório" },
+            { "nome": "Tesouraço" },
+            { "nome": "Transparência" }
+          ]
+        }
+      ]
+    }
+  ]
+}

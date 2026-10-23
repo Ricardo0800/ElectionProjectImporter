@@ -1,0 +1,8 @@
+# Pastas de build do .NET
+bin/
+obj/
+
+# Arquivos locais e de IDE
+.vs/
+*.user
+*.suo
